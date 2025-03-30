@@ -1,5 +1,5 @@
 # ClatScribe2.0
-ClatScribe is a speech-to-text tool that captures real-time audio and transcribes it in real time with the Google Transcription API. It has a CLI and a GUI.
+ClatScribe 2.0 is a variant of the original ClatScribe project, but uses the Google speech to text model. It is a speech-to-text tool that captures real-time audio and transcribes it in real time with the Google Transcription API. It has a CLI and a GUI.
 
 ![clatscribe2 0](https://github.com/user-attachments/assets/071495d2-89f1-4387-ba09-82190d6d4ecf)
 
