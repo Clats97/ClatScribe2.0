@@ -3,9 +3,8 @@ ClatScribe 2.0 is a variant of the original ClatScribe project, but uses the Goo
 
 ![clatscribe2 0](https://github.com/user-attachments/assets/071495d2-89f1-4387-ba09-82190d6d4ecf)
 
-![clatscribe2 0](https://github.com/user-attachments/assets/572e8065-e410-4899-9fc5-c9fa267d0887)
 
----
+![clatscribe2 0](https://github.com/user-attachments/assets/642fa2b2-73a7-4102-802e-6440cc807942)
 
 # Speech-to-Text & Transcription Tool
 
