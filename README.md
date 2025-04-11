@@ -96,4 +96,12 @@ This project is licensed under the Apache 2.0 License
 
 Contributions and suggestions are welcome. Please open issues or submit pull requests if you encounter bugs or have ideas for enhancements.
 
+**Author**
+
+Joshua M Clatney (Clats97)
+
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97)
+
 
